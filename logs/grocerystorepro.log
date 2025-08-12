@@ -1,0 +1,4 @@
+2025-08-12 01:20:36 - GroceryStorePro.logic.services.auth_service - INFO - auth_service.py:112 - Successful login for user: admin
+2025-08-12 01:20:36 - GroceryStorePro.logic.services.auth_service - INFO - auth_service.py:151 - Session created for user admin: 432d13ea-343d-4f0c-802d-1ae835d719d4
+2025-08-12 01:20:36 - GroceryStorePro.logic.services.auth_service - INFO - auth_service.py:217 - Session ended for user admin: 432d13ea-343d-4f0c-802d-1ae835d719d4
+2025-08-12 01:20:36 - GroceryStorePro.logic.services.auth_service - WARNING - auth_service.py:78 - Failed login attempt for user: admin
